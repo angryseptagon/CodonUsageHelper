@@ -1,0 +1,4 @@
+for mice:
+(("Mus"[Organism] OR "Mus musculus"[Organism]) AND "olfactory receptor"[title]) AND "Mus musculus"[porgn] AND refseq[filter]
+for humans:
+"Olfactory Receptor"[title] AND "Homo sapiens"[porgn] AND refseq[filter]

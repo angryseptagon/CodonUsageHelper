@@ -1,0 +1,89 @@
+Codon Usage results
+Results for 483762 residue sequence "results for 483801 residue sequence made from 508 records, starting "ATGGACGGGG"" starting "ATGGACGGGG"
+
+AmAcid   Codon     Number        /1000     Fraction   .. 
+
+Ala      GCG       329.00         2.04         0.03 
+Ala      GCA      2176.00        13.50         0.21 
+Ala      GCT      3176.00        19.70         0.31 
+Ala      GCC      4469.00        27.72         0.44 
+
+Cys      TGT      3025.00        18.76         0.55 
+Cys      TGC      2519.00        15.62         0.45 
+
+Asp      GAT      1691.00        10.49         0.41 
+Asp      GAC      2391.00        14.83         0.59 
+
+Glu      GAG      2058.00        12.76         0.57 
+Glu      GAA      1553.00         9.63         0.43 
+
+Phe      TTT      5047.00        31.30         0.42 
+Phe      TTC      6901.00        42.80         0.58 
+
+Gly      GGG      1989.00        12.34         0.27 
+Gly      GGA      1894.00        11.75         0.26 
+Gly      GGT      1318.00         8.17         0.18 
+Gly      GGC      2103.00        13.04         0.29 
+
+His      CAT      1582.00         9.81         0.36 
+His      CAC      2808.00        17.42         0.64 
+
+Ile      ATA      1855.00        11.50         0.14 
+Ile      ATT      4569.00        28.34         0.35 
+Ile      ATC      6661.00        41.31         0.51 
+
+Lys      AAG      2985.00        18.51         0.57 
+Lys      AAA      2257.00        14.00         0.43 
+
+Leu      TTG      3040.00        18.85         0.13 
+Leu      TTA      1508.00         9.35         0.07 
+Leu      CTG      7309.00        45.33         0.32 
+Leu      CTA      1620.00        10.05         0.07 
+Leu      CTT      3208.00        19.90         0.14 
+Leu      CTC      6435.00        39.91         0.28 
+
+Met      ATG      6540.00        40.56         1.00 
+
+Asn      AAT      2498.00        15.49         0.46 
+Asn      AAC      2877.00        17.84         0.54 
+
+Pro      CCG       213.00         1.32         0.03 
+Pro      CCA      1654.00        10.26         0.25 
+Pro      CCT      2033.00        12.61         0.31 
+Pro      CCC      2710.00        16.81         0.41 
+
+Gln      CAG      2720.00        16.87         0.71 
+Gln      CAA      1113.00         6.90         0.29 
+
+Arg      AGG      1654.00        10.26         0.31 
+Arg      AGA      1447.00         8.97         0.27 
+Arg      CGG       552.00         3.42         0.10 
+Arg      CGA       455.00         2.82         0.08 
+Arg      CGT       408.00         2.53         0.08 
+Arg      CGC       904.00         5.61         0.17 
+
+Ser      AGT      1351.00         8.38         0.10 
+Ser      AGC      2030.00        12.59         0.15 
+Ser      TCG       255.00         1.58         0.02 
+Ser      TCA      2066.00        12.81         0.15 
+Ser      TCT      3259.00        20.21         0.24 
+Ser      TCC      4428.00        27.46         0.33 
+
+Thr      ACG       579.00         3.59         0.06 
+Thr      ACA      2872.00        17.81         0.28 
+Thr      ACT      3004.00        18.63         0.29 
+Thr      ACC      3868.00        23.99         0.37 
+
+Val      GTG      5330.00        33.06         0.41 
+Val      GTA      1480.00         9.18         0.11 
+Val      GTT      2340.00        14.51         0.18 
+Val      GTC      3756.00        23.29         0.29 
+
+Trp      TGG      1158.00         7.18         1.00 
+
+Tyr      TAT      3367.00        20.88         0.50 
+Tyr      TAC      3337.00        20.70         0.50 
+
+End      TGA       226.00         1.40         0.45 
+End      TAG        93.00         0.58         0.18 
+End      TAA       187.00         1.16         0.37 
